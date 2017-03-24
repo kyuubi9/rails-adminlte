@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = Rails::Adminlte::VERSION
   s.authors     = ["kyuubi"]
   s.email       = ["kyuubi@chinacluster.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/kyuubi9/rails-adminlte"
   s.summary     = "Rails::Adminlte."
   s.description = "Rails::Adminlte."
   s.license     = "MIT"
