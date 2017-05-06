@@ -34,7 +34,10 @@ Add the following to your `app/assets/javascripts/application.js`:
 
 Add the following to your `app/assets/stylesheets/application.css`:
 
+     *= require bootstrap
      *= require adminlte/adminlte
+     *= require adminlte/skins/_all-skins
+     *= require font-awesome  
      
 ## Version
 
