@@ -8,6 +8,7 @@ How to use my plugin.
 Add this line to your application's Gemfile:
 
 ```ruby
+gem 'font-awesome-rails'
 gem 'rails-adminlte'
 ```
 
@@ -41,7 +42,7 @@ Add the following to your `app/assets/stylesheets/application.css`:
      
 ## Version
 
-0.1.7 (AdminLTE 2.3.12)
+0.1.8 (AdminLTE 2.4.2)
 ## License
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
